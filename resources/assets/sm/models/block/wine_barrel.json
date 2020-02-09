@@ -1,0 +1,11 @@
+{
+   "parent": "block/orientable",
+   "textures": {
+       "up": "sm:blocks/wine_barrel_top",
+       "down": "sm:blocks/wine_barrel_bottom",
+       "south": "sm:blocks/wine_barrel_side",
+       "north": "sm:blocks/wine_barrel_side",
+       "west": "sm:blocks/wine_barrel_side",
+       "east": "sm:blocks/wine_barrel_side" 
+   }
+}

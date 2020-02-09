@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " M ",
+        "VGV",
+        " V "
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "sm:metal_press"
+        },
+        
+        "V":
+        {
+            "item": "minecraft:glass"
+        },
+        
+        "G":
+        {
+            "item": "sm:grape"
+        }
+          
+    },
+    
+    "result":
+    {
+        "item": "sm:grape_juice",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "sm:apple_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "sm:apple_ingot",
+        "count": 9
+    }
+}

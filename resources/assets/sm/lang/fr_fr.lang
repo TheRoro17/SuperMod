@@ -1,0 +1,23 @@
+//Items
+
+item.apple_ingot.name=Ingot de pomme
+item.roast_beef.name=Rôti de Boeuf
+item.metal_press.name=Presse à Metal
+item.grape.name=Grappe de raisin
+item.grape_juice.name=Jus de raisin
+
+item.bakeware.name=Moule
+item.flour.name=Farine
+item.salt.name=Sel
+item.olive_oil.name=Huile d'olive
+item.yiest.name=Levure
+item.dough.name=Pâte 
+item.tomato.name=Tomate 
+item.pizza_dough.name=Pâte à pizza
+item.pizza.name=Pizza 
+item.pizza_slice.name=Part de pizza 
+
+//Blocks
+
+tile.blocky_apple.name=Blocky Apple
+tile.wine_barrel.name=Tonneau de vin

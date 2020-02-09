@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "sm:apple_block" }
+    }
+}

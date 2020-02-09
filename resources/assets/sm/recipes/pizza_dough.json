@@ -1,0 +1,42 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "sm:bakeware"
+    },
+
+    {
+      "item": "sm:tomato"
+    },
+    
+    {
+      "item": "sm:yiest"
+    },
+
+    {
+      "item": "sm:salt"
+    },
+
+    {
+      "item": "sm:olive_oil"
+    },
+
+    {
+      "item": "sm:flour"
+    },
+
+    {
+      "item": "sm:dough"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "sm:pizza_dough",
+        "count": 1
+    }
+}

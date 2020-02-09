@@ -1,0 +1,52 @@
+//Items
+
+item.apple_ingot.name=Apple Ingot
+item.roast_beef.name=Roast Beef
+item.metal_press.name=Metal Press
+item.grape.name=Grape
+item.grape_juice.name=Grape Juice
+
+item.bakeware.name=Bakeware
+item.flour.name=Flour
+item.salt.name=Salt
+item.olive_oil.name=Olive oil
+item.yiest.name=Yiest
+item.dough.name=Dough 
+item.tomato.name=Tomato 
+item.pizza_dough.name=Pizza Dough 
+item.pizza.name=Pizza 
+item.pizza_slice.name=Pizza Slice 
+
+item.apple_dust.name=Apple Dust
+
+//Tools
+item.apple_ingot_sword.name=Apple Ingot Sword
+item.apple_ingot_shovel.name=Apple Ingot Shovel
+item.apple_ingot_pickaxe.name=Apple Ingot Pickaxe
+item.apple_ingot_axe.name=Apple Ingot Axe
+item.apple_ingot_hoe.name=Apple Ingot Hoe
+
+//Food
+item.raw_roast_beef.name=Raw Roast Beef
+
+
+//Armor
+item.apple_ingot_helmet.name=Apple Ingot Helmet
+item.apple_ingot_chestplate.name=Apple Ingot Chestplate
+item.apple_ingot_leggings.name=Apple Ingot Leggings
+item.apple_ingot_boots.name=Apple Ingot Boots
+
+//Blocks
+
+tile.apple_block.name=Block of Apple
+tile.cubic_apple.name=Cubic Apple
+tile.wine_barrel.name=Wine Barrel
+
+//Ores
+tile.apple_ore.name=Apple Ore
+
+//Tabs
+itemGroup.supermodtab=Super Mod Misc
+itemGroup.supermodtab2=Super Mod Combat
+itemGroup.supermodtab3=Super Mod Food
+itemGroup.supermodtab4=Super Mod Ores

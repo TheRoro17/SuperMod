@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "sm:cubic_apple" }
+    }
+}

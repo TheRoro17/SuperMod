@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "sm:apple_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sm:apple_block",
+        "count": 1
+    }
+}

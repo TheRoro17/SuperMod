@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "PMP",
+        "PGP",
+        "PPP"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "sm:metal_press"
+        },
+        
+        "P":
+        {
+            "item": "minecraft:planks",
+            "data": 0
+        },
+        
+        "G":
+        {
+            "item": "sm:grape"
+        }
+          
+    },
+    
+    "result":
+    {
+        "item": "sm:wine_barrel",
+        "count": 1
+    }
+}
